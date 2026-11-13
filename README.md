@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple FastAPI Py
 
 ## My Awesome FastAPI Project
@@ -173,3 +174,6 @@ Response:
 This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
 
 Copyright 2023, Max Base
+=======
+# SimpleFastPyAPI
+>>>>>>> 1a1c2d015835cb3ad05246d4cd2b2cfbc81b109c
